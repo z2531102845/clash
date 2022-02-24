@@ -1,20 +1,20 @@
 # Apple
 DOMAIN,safebrowsing.urlsec.qq.com,DIRECT # 如果您并不信任此服务提供商或防止其下载消耗过多带宽资源，可以进入 Safari 设置，关闭 Fraudulent Website Warning 功能，并使用 REJECT 策略。
 DOMAIN,safebrowsing.googleapis.com,DIRECT # 如果您并不信任此服务提供商或防止其下载消耗过多带宽资源，可以进入 Safari 设置，关闭 Fraudulent Website Warning 功能，并使用 REJECT 策略。
-DOMAIN,developer.apple.com,
-DOMAIN-SUFFIX,digicert.com,
-DOMAIN,ocsp.apple.com,
-DOMAIN,ocsp.comodoca.com,
-DOMAIN,ocsp.usertrust.com,
-DOMAIN,ocsp.sectigo.com,
-DOMAIN,ocsp.verisign.net,
-DOMAIN-SUFFIX,apple-dns.net,
-DOMAIN,testflight.apple.com,
-DOMAIN,sandbox.itunes.apple.com,
-DOMAIN,itunes.apple.com,
-DOMAIN-SUFFIX,apps.apple.com,
-DOMAIN-SUFFIX,blobstore.apple.com,
-DOMAIN,cvws.icloud-content.com,
+DOMAIN,developer.apple.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN,ocsp.apple.com
+DOMAIN,ocsp.comodoca.com
+DOMAIN,ocsp.usertrust.com
+DOMAIN,ocsp.sectigo.com
+DOMAIN,ocsp.verisign.net
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN,testflight.apple.com
+DOMAIN,sandbox.itunes.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,blobstore.apple.com
+DOMAIN,cvws.icloud-content.com
 DOMAIN-SUFFIX,mzstatic.com,DIRECT
 DOMAIN-SUFFIX,itunes.apple.com,DIRECT
 DOMAIN-SUFFIX,icloud.com,DIRECT
@@ -33,16 +33,16 @@ DOMAIN-SUFFIX,apple-cloudkit.com,DIRECT
 DOMAIN-SUFFIX,apple-mapkit.com,DIRECT
 
 # 抗 DNS 污染
-DOMAIN-KEYWORD,amazon,
-DOMAIN-KEYWORD,google,
-DOMAIN-KEYWORD,gmail,
-DOMAIN-KEYWORD,youtube,
-DOMAIN-KEYWORD,facebook,
-DOMAIN-SUFFIX,fb.me,
-DOMAIN-SUFFIX,fbcdn.net,
-DOMAIN-KEYWORD,twitter,
-DOMAIN-KEYWORD,instagram,
-DOMAIN-KEYWORD,dropbox,
+DOMAIN-KEYWORD,amazon
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,facebook
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,dropbox
 DOMAIN-SUFFIX,twimg.com,
 DOMAIN-KEYWORD,blogspot,
 DOMAIN-SUFFIX,youtu.be,
