@@ -1,0 +1,26 @@
+[custom]
+;不要随意改变关键字，否则会导致出错
+;saobao规则
+
+;去广告：支持
+;自动测速：支持
+;微软分流：支持
+;苹果分流：支持
+;增强中国IP段：支持
+;增强国外GFW：支持
+
+;设置规则标志位
+ruleset= Proxy,https://raw.githubusercontent.com/z2531102845/clash/main/Proxy.list?token=GHSAT0AAAAAABPYN5DOLYCNEA6ZCSF225OKYQXTBMA
+ruleset= 🎞️Disney+,https://raw.githubusercontent.com/z2531102845/clash/main/%F0%9F%8E%9E%EF%B8%8FDisney%2B.list?token=GHSAT0AAAAAABPYN5DO7QU5NOTUV6O5R4PIYQXS5RQ
+ruleset= 🎬Netflix,https://raw.githubusercontent.com/z2531102845/clash/main/Netflix.list?token=GHSAT0AAAAAABPYN5DOHT3IQG6DI7MWBK2KYQXS4PQ
+;设置规则标志位
+
+;设置分组标志位
+custom_proxy_group=Proxy`select`.*
+custom_proxy_group=🎞️Disney+`select`.*
+custom_proxy_group=🎬Netflix`select`.*
+
+
+enable_rule_generator=true
+overwrite_original_rules=true
+
