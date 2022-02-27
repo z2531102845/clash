@@ -4,7 +4,6 @@ DOMAIN,ocsp.comodoca.com
 DOMAIN,ocsp.usertrust.com
 DOMAIN,ocsp.sectigo.com
 DOMAIN,ocsp.verisign.net
-DOMAINSUFFIX,appledns.net
 DOMAIN,testflight.apple.com
 DOMAIN,sandbox.itunes.apple.com
 DOMAIN,itunes.apple.com
