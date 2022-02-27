@@ -7,8 +7,6 @@ DOMAIN,ocsp.verisign.net
 DOMAIN,testflight.apple.com
 DOMAIN,sandbox.itunes.apple.com
 DOMAIN,itunes.apple.com
-DOMAINSUFFIX,apps.apple.com
-DOMAINSUFFIX,blobstore.apple.com
 DOMAIN,cvws.icloudcontent.com
 
 #抗DNS污染
