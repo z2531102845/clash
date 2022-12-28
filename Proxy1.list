@@ -13,3 +13,7 @@ DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,blobstore.apple.com
 DOMAIN,cvws.icloud-content.com
 DOMAIN,mypikpak.com
+DOMAIN,store.steampowered.com
+DOMAIN,steamcommunity.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-KEYWORD,steampowered
