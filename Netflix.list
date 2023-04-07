@@ -1,4 +1,6 @@
 # netflix
+DOMAIN,naiko.cloud
+DOMAIN-SUFFIX,naiko.cloud
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,nflxext.com
