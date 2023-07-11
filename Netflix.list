@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,netflixdnstest10.com
 DOMAIN-SUFFIX,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,us-west-2.amazonaws.com
 DOMAIN-KEYWORD,dualstack.apiproxy-
+DOMAIN-KEYWORD,googleapis
 DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
 DOMAIN-KEYWORD,ichnaea-web-
 DOMAIN-KEYWORD,netflix
