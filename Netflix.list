@@ -1,4 +1,6 @@
 # netflix
+DOMAIN-KEYWORD,googleapis
+DOMAIN,services.googleapis.cn
 DOMAIN,naiko.cloud
 DOMAIN-SUFFIX,naiko.cloud
 DOMAIN-SUFFIX,netflix.com
