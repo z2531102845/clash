@@ -2,7 +2,11 @@
 DOMAIN,injections.adguard.org  
 DOMAIN,local.adguard.org  
 DOMAIN-SUFFIX,local  
-
+DOMAIN,erp.gearun.com
+DOMAIN-SUFFIX,erp.gearun.com
+DOMAIN-SUFFIX,hk.cdn.gearun.com
+DOMAIN-SUFFIX,gearun.com
+DOMAIN,hk.cdn.gearun.com
 IP-CIDR,0.0.0.0/8  
 IP-CIDR,10.0.0.0/8  
 IP-CIDR,17.0.0.0/8  
