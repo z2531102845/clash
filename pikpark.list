@@ -3,8 +3,8 @@ DOMAIN-KEYWORD,todesk
 DOMAIN,dl-a10b-0395.mypikpak.com
 DOMAIN,dl-a10b-0393.mypikpak.com
 DOMAIN,dl-a10b-0394.mypikpak.com
-DOMAIN,KEYWORD,dl-a10b.mypikpak.com
-DOMAIN,KEYWORD,dl-a10b
+DOMAIN-KEYWORD,dl-a10b.mypikpak.com
+DOMAIN-KEYWORD,dl-a10b
 DOMAIN-KEYWORD,dl-a10b-0395
 DOMAIN-KEYWORD,dl-a10b-0394
 DOMAIN-KEYWORD,dl-a10b-0393
@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,api.steampowered.com
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,my.sharepoint.com
-DOMAIN,KEYWORD,sharepoint
+DOMAIN-KEYWORD,sharepoint
 DOMAIN-SUFFIX,kessel-ws.parsec.app
 PROCESS-NAME,OneDrive
 PROCESS-NAME,OneDriveUpdater
