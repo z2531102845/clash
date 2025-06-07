@@ -10,3 +10,4 @@ DOMAIN,kessel-api.parsec.app
 DOMAIN,hk1.pro.xns.one
 DOMAIN,hk.pro.xns.one
 DOMAIN,hk.raito.xns.one
+IP-CIDR,45.249.245.2/24
