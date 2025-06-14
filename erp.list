@@ -19,3 +19,6 @@ DOMAIN,hk1.beta.xns.one
 DOMAIN,x991291.as9929.uk
 DOMAIN,at-corn8350.hk-kahkee.nxns.link
 DOMAIN-SUFFIX,hk-kahkee.nxns
+IP-CIDR,104.16.1.130/26
+IP-CIDR,104.16.0.130/26
+IP-CIDR,104.18.185.200/26
