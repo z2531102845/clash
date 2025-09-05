@@ -21,7 +21,6 @@ DOMAIN-SUFFIX,hk-kahkee.nxns.link
 DOMAIN-SUFFIX,hk-kahkee.nxns
 DOMAIN-SUFFIX,kahkee.xns.one
 DOMAIN-SUFFIX,pro.xns.one
-DOMAIN,myip.ipip.net
 DOMAIN,novaxns.one
 DOMAIN,xns.my.id
 DOMAIN,light-basic.xns.my.id
@@ -29,6 +28,9 @@ DOMAIN,sg.kahkee.xns.one
 DOMAIN,vxcdn.novaxns.one
 DOMAIN,hk2.beta.xns.one
 DOMAIN,kahkee.xns.one
+DOMAIN,myip.ipip.net
+DOMAIN,4.ipw.cn
+DOMAIN,ip.3322.net
 IP-CIDR,45.121.184.0/24
 IP-CIDR,103.10.124.0/23
 IP-CIDR,103.28.54.0/24
