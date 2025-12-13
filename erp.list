@@ -1,6 +1,6 @@
 DOMAIN,erp.gearun.com
 DOMAIN,myip.ipip.net
-DST-PORT,3478
+DOMAIN-KEYWORD,stun
 DOMAIN-SUFFIX,oms.kuajing.team
 DOMAIN-SUFFIX,erp.gearun.com
 DOMAIN-SUFFIX,hk.cdn.gearun.com
