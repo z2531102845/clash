@@ -1,6 +1,8 @@
 DOMAIN,erp.gearun.com
 DOMAIN,wd-gold.com
-DOMAIN-KEYWORD,apt-agent
+DOMAIN-SUFFIX,apt-agent.com
+DOMAIN-SUFFIX,apt-hcloud.net
+DOMAIN-SUFFIX,apt-agent.dev
 DOMAIN,www.yuntrack.com
 DOMAIN-KEYWORD,yuntrack.com
 DOMAIN,myip.ipip.net
