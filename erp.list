@@ -1,4 +1,5 @@
 DOMAIN,erp.gearun.com
+IP-CIDR, 45.141.170.1/23
 DOMAIN,wd-gold.com
 DOMAIN-SUFFIX,apt-agent.com
 DOMAIN-SUFFIX,apt-hcloud.net
