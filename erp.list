@@ -9,8 +9,8 @@ DOMAIN-KEYWORD,yuntrack.com
 DOMAIN-KEYWORD,intbell
 DOMAIN-KEYWORD,yuntrack
 DOMAIN,myip.ipip.net
-DOMAIN-KEYWORD,myshopline.com
-DOMAIN-KEYWORD,myshoplaza.com
+DOMAIN-REGEX,^(?!www\.)(([^/]+\.)?myshopline\.com)$
+DOMAIN-REGEX,^(?!www\.)(([^/]+\.)?myshoplaza\.com)$
 DOMAIN-SUFFIX,surfincurs.myshoplaza.com
 DOMAIN-SUFFIX,crawcybe.myshoplaza.com
 DOMAIN-SUFFIX,chat1-ai-kf.myshopline.com
