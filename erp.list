@@ -10,6 +10,7 @@ DOMAIN,www.yuntrack.com
 DOMAIN-KEYWORD,yuntrack.com
 DOMAIN-KEYWORD,intbell
 DOMAIN-KEYWORD,yuntrack
+DOMAIN-KEYWORD,sub1.sntp.me
 DOMAIN,myip.ipip.net
 DOMAIN-REGEX,^(?!www\.)(([^/]+\.)?myshopline\.com)$
 DOMAIN-REGEX,^(?!www\.)(([^/]+\.)?myshoplaza\.com)$
