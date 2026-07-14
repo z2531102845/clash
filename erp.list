@@ -8,8 +8,10 @@ IP-CIDR,155.254.101.1/23
 IP-CIDR,144.225.78.1/23
 IP-CIDR,84.75.203.1/23
 IP-CIDR,156.239.14.1/23
+DOMAIN-KEYWORD,homebaa
 DOMAIN-KEYWORD,meituan88.com
 DOMAIN,wd-gold.com
+aDOMAIN,dmin.shopify.com
 DOMAIN,api-huacloud.net
 DOMAIN-SUFFIX,apt-agent.com
 DOMAIN-SUFFIX,apt-hcloud.net
