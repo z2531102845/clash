@@ -11,7 +11,7 @@ IP-CIDR,156.239.14.1/23
 DOMAIN-KEYWORD,homebaa
 DOMAIN-KEYWORD,meituan88.com
 DOMAIN,wd-gold.com
-aDOMAIN,dmin.shopify.com
+DOMAIN,admin.shopify.com
 DOMAIN,api-huacloud.net
 DOMAIN-SUFFIX,apt-agent.com
 DOMAIN-SUFFIX,apt-hcloud.net
