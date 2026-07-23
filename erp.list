@@ -18,6 +18,9 @@ DOMAIN-SUFFIX,apt-hcloud.net
 DOMAIN-SUFFIX,apt-agent.dev
 DOMAIN-KEYWORD,ap-guangzhou
 DOMAIN-KEYWORD,aws-agent
+DOMAIN-KEYWORD,apt-agent.org
+DOMAIN-KEYWORD,micron-nvme.com
+DOMAIN-KEYWORD,linkcube-cloud.org
 DOMAIN,www.yuntrack.com
 DOMAIN-KEYWORD,yuntrack.com
 DOMAIN-KEYWORD,intbell
