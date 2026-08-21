@@ -12,7 +12,6 @@ IP-CIDR,156.239.14.1/23
 DOMAIN-KEYWORD,homebaa
 DOMAIN-KEYWORD,meituan88.com
 DOMAIN,wd-gold.com
-DOMAIN,admin.shopify.com
 DOMAIN,api-huacloud.net
 DOMAIN-SUFFIX,apt-agent.com
 DOMAIN-SUFFIX,apt-hcloud.net
@@ -28,7 +27,6 @@ DOMAIN-KEYWORD,intbell
 DOMAIN-KEYWORD,yuntrack
 DOMAIN-KEYWORD,sub1.sntp.me
 DOMAIN,myip.ipip.net
-DOMAIN-SUFFIX,admin.myshopline.com
 DOMAIN-SUFFIX,ziniao.com
 DOMAIN-SUFFIX,233netbiz.com
 DOMAIN-SUFFIX,solidigm-nvme.com
@@ -74,10 +72,3 @@ DOMAIN,jp.beta.xns.one
 DOMAIN,myip.ipip.net
 DOMAIN,4.ipw.cn
 DOMAIN,ip.3322.net
-IP-CIDR,148.178.21.0/22
-IP-CIDR,103.143.81.0/22
-IP-CIDR,206.237.31.0/22
-IP-CIDR,46.232.106.0/22
-IP-CIDR,70.39.204.0/22
-IP-CIDR,43.161.219.1/24
-IP-CIDR,118.184.169.1/24
