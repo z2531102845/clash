@@ -11,11 +11,13 @@ IP-CIDR,84.75.203.1/23
 IP-CIDR,156.239.14.1/23
 DOMAIN-KEYWORD,homebaa
 DOMAIN-KEYWORD,meituan88.com
+DOMAIN,api-flowercloud.com
 DOMAIN,wd-gold.com
 DOMAIN,api-huacloud.net
 DOMAIN-SUFFIX,apt-agent.com
 DOMAIN-SUFFIX,apt-hcloud.net
 DOMAIN-SUFFIX,apt-agent.dev
+DOMAIN-KEYWORD,api-flowercloud
 DOMAIN-KEYWORD,ap-guangzhou
 DOMAIN-KEYWORD,aws-agent
 DOMAIN-KEYWORD,apt-agent.org
