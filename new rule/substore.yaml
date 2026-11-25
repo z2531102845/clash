@@ -86,10 +86,10 @@ tun:
     - any:53
     - udp://any:53
     - tcp://any:53
-  auto-route: true
-  strict-route: true
-  auto-redirect: true
-  auto-detect-interface: true
+#  auto-route: true
+#  strict-route: true
+#  auto-redirect: true
+#  auto-detect-interface: true
 
 # HOSTS
 hosts:
